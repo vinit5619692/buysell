@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">orderguru</string>
+    <string name="fulllogo">AppFullLogo</string>
+    <string name="slogan">Let\'s make your order easy</string>
+    <string name="askSignUp">Do not have an OG account yet?     </string>
+    <string name="askSignIn">Already have OG an account?       </string>
+    <string name="SignUp">  Sign up</string>
+    <string name="SignIn">  Sign in</string>
+
+    <string name="createaccount">Create OG Account</string>
+    <string name="SignIntext">Sign in With OG Account</string>
+    <string name="phonenumber">10 digit Phone Number</string>
+    <string name="Password">4 digit Password</string>
+    <string name="firmname">Firm Name</string>
+    <string name="username">User Name</string>
+    <string name="address">Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="phonenumberdi">Phone Number</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="ortext">---------------------------------------or---------------------------------------</string>
+
+    <string name="totalclient">Total Client</string>
+    <string name="totalsupplier">Total Supplier</string>
+    <string name="totalorder">Total Orders</string>
+    <string name="totalproducts">Total Products</string>
+
+    <string name="loading">Loading..</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="userimageback">User Image Background</string>
+    <string name="userblockunblock">Block and Unblock</string>
+    <string name="blockbtn">Block</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="editTextproductprice">Product Price</string>
+    <string name="editTextproductsellprice">Product Selling Price</string>
+    editTextproductprice
+
+
+</resources>

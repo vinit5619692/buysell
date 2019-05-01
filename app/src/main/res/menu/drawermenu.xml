@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:title="Dashboard"    android:icon="@drawable/dashboard"/>
+    <item android:id="@+id/client" android:title="Client" android:icon="@drawable/client"/>
+    <item android:id="@+id/supplier" android:title="Supplier" android:icon="@drawable/supplier"/>
+    <item android:id="@+id/product" android:title="Product" android:icon="@drawable/product"/>
+    <item android:id="@+id/addproduct" android:title="Add Product" android:icon="@drawable/add_product"/>
+    <item android:id="@+id/orderreceived" android:title="Order Received" android:icon="@drawable/color_buying_50"/>
+    <item android:id="@+id/orderplaced" android:title="Order Places" android:icon="@drawable/color_shopping_cart_50"/>
+    <item android:id="@+id/profile" android:title="Profile" android:icon="@drawable/profile"/>
+</menu>
